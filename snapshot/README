@@ -1,11 +1,4 @@
 README
 01 June 2019
 
-This application has been built to demonstrate the learning,
-coding, and design capabilities of its author, Jordan Sutton. This project uses open-source services written and hosted by Jason Watmore.
-
-The app uses AngularJS to implement a simple, secure method of registration and sign-in to be connected to a RESTful server-side user management system.
-
-In addition, an incomplete draft of a component to implement a scalable image gallery has been included.
-
-New pages can be added to the application easily in app.js, with subsequent content and business logic organized into folders following the naming convention established herein.
+Coding practice with AngularJS!
